@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "name": "windows-gcc-x64",
+            "includePath": [
+                "d:/ONE-DRIVE/OneDrive - Temple University/Desktop/C++_Projects/**"
+            ],
+            "compilerPath": "C:/msys64/mingw64/bin/gcc.exe",
+            "cStandard": "${default}",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}",
+            "compilerArgs": [
+                ""
+            ]
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "d:/ONE-DRIVE/OneDrive - Temple University/Desktop/C++_Projects/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/msys64/mingw64/bin/cpp.exe",
+            "cppStandard":"c++17",
+            "intelliSenseMode": "gcc-x64",
+            "browse": {
+                "path": [
+                    "d:/ONE-DRIVE/OneDrive - Temple University/Desktop/C++_Projects/**",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
